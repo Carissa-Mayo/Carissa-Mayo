@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carissa-mayo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carissa-mayo&layout=compact" />
 
 <!--
 
