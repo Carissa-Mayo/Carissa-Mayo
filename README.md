@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carissa-mayo&layout=compact&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carissa-mayo&layout=compact&v=2)
 
 
 <!--
