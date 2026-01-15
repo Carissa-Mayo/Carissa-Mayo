@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carissa-mayo&layout=compact&v=2&theme=transparent)
+![Top Langs]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carissa-mayo)](https://github.com/carissa-mayo/github-readme-stats))
 
 
 <!--
